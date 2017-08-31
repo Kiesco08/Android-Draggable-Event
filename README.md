@@ -1,2 +1,2 @@
-# Android-Draggable-Event
+# Draggable-Calendar-Event
 A Calendar Day View that implements the iCalendar draggable events functionality.
